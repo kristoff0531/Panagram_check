@@ -14,7 +14,7 @@ public class panagram {
             }
         }
         if (alpha){
-            System.out.println("yes!"+ch+" ita a Panagram");
+            System.out.println("yes!"+ch+" is a Panagram");
         }
         else
             System.out.println("no the word\t"+"("+ ch+")" +" is not a Panagram");
